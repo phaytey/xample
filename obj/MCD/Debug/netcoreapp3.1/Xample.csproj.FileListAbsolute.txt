@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Immersion\Project 2\Xample\bin\MCD\Debug\netcoreapp3.1\Xample.exe
+C:\Users\Public\Documents\Immersion\Project 2\Xample\bin\MCD\Debug\netcoreapp3.1\Xample.deps.json
+C:\Users\Public\Documents\Immersion\Project 2\Xample\bin\MCD\Debug\netcoreapp3.1\Xample.runtimeconfig.json
+C:\Users\Public\Documents\Immersion\Project 2\Xample\bin\MCD\Debug\netcoreapp3.1\Xample.runtimeconfig.dev.json
+C:\Users\Public\Documents\Immersion\Project 2\Xample\bin\MCD\Debug\netcoreapp3.1\Xample.dll
+C:\Users\Public\Documents\Immersion\Project 2\Xample\bin\MCD\Debug\netcoreapp3.1\Xample.pdb
+C:\Users\Public\Documents\Immersion\Project 2\Xample\obj\MCD\Debug\netcoreapp3.1\Xample.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Immersion\Project 2\Xample\obj\MCD\Debug\netcoreapp3.1\Xample.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\Immersion\Project 2\Xample\obj\MCD\Debug\netcoreapp3.1\Xample.AssemblyInfo.cs
+C:\Users\Public\Documents\Immersion\Project 2\Xample\obj\MCD\Debug\netcoreapp3.1\Xample.dll
+C:\Users\Public\Documents\Immersion\Project 2\Xample\obj\MCD\Debug\netcoreapp3.1\Xample.pdb
